@@ -1,0 +1,13 @@
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\bin\Debug\TCP_APP.exe.config
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\bin\Debug\TCP_APP.exe
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\bin\Debug\TCP_APP.pdb
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\bin\Debug\SuperSimpleTcp.dll
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_client.csproj.AssemblyReference.cache
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_APP.Properties.Resources.resources
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_APP.Client.resources
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_client.csproj.GenerateResource.cache
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_client.csproj.CoreCompileInputs.cache
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_client.csproj.CopyComplete
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_APP.exe
+C:\Users\polak\source\repos\TCP_APP\TCP_APP\obj\Debug\TCP_APP.pdb

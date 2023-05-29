@@ -1,0 +1,13 @@
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\TCP_server.csproj.AssemblyReference.cache
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\TCP_server.csproj.SuggestedBindingRedirects.cache
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\TCP_APP.Server.resources
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\TCP_server.csproj.GenerateResource.cache
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\TCP_server.csproj.CoreCompileInputs.cache
+C:\Users\polak\source\repos\TCP_APP\Server\bin\Debug\Server.exe.config
+C:\Users\polak\source\repos\TCP_APP\Server\bin\Debug\Server.exe
+C:\Users\polak\source\repos\TCP_APP\Server\bin\Debug\Server.pdb
+C:\Users\polak\source\repos\TCP_APP\Server\bin\Debug\SuperSimpleTcp.dll
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\TCP_server.csproj.CopyComplete
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\Server.exe
+C:\Users\polak\source\repos\TCP_APP\Server\obj\Debug\Server.pdb
